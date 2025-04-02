@@ -20,5 +20,4 @@ A basic chatbot built using Django and the OpenAI API (ChatGPT). This project al
 3. Create a `.env` file and add your OpenAI API key.
 4. Run the Django server with `python manage.py runserver`.
 
-## License
-This project is open-source and available under the MIT License.
+
